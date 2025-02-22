@@ -1,4 +1,4 @@
-# Pearl language.
+# [Pearl language](https://pearl-lang.github.io)
 
 ```
 // Good luck 🫡.
@@ -21,3 +21,5 @@ function main() -> int {
 	0
 }
 ```
+
+Let's get build something amazing together 👉 [Pearl Social](https://pearl-lang.github.io/social).
